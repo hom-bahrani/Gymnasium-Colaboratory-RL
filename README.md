@@ -1,4 +1,4 @@
-# Gymnasium-Colaboratory-Starter
+# Gymnasium-Colaboratory-RL
 
 This notebook can be used to render Gymnasium (up-to-date maintained fork of OpenAI’s Gym) in Google's Colaboratory.
 
